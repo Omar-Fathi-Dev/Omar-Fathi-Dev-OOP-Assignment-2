@@ -2,7 +2,7 @@
 
 **Student:** Omar Fathi  
 **Program:** Simulation Academy — .NET Diploma  
-**Track:** Backend .NET 4
+**Track:** Backend .NET
 
 ## Project Overview
 
